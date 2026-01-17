@@ -24,6 +24,3 @@ AI4I 2020 Predictive Maintenance Dataset (Kaggle)
 4. Predict machine failure
 5. Evaluate model performance
 
-## How to Run
-1. Clone the repository
-2. Install dependencies using:
