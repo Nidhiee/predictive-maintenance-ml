@@ -1,5 +1,4 @@
-# predictive-maintenance-ml
-Machine learning model to predict industrial machine failures
+
 # Predictive Maintenance for Industrial Machines
 
 ## Overview
