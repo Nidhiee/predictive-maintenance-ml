@@ -8,7 +8,7 @@ This project uses machine learning to predict industrial machine failures using 
 Unexpected machine breakdowns lead to production loss and increased maintenance costs. This project aims to predict machine failures in advance to enable proactive maintenance.
 
 ## Dataset
-AI4I 2020 Predictive Maintenance Dataset (Kaggle)
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
 
 ## Technologies Used
 - Python
